@@ -1,12 +1,12 @@
 let gente = [
-    {nombre: "Johnatan", edad: 65},
-    {nombre: "Joseph", edad: 2},
-    {nombre: "Jotaro", edad: 13},
-    {nombre: "Josuke", edad: 3},
-    {nombre: "Giorno", edad: 25},
-    {nombre: "Jolyne", edad: 1},
-    {nombre: "Johnny", edad: 1},
-    {nombre: "Josuke", edad: 43},
+    {nombre: "Johnatan", edad: 20},
+    {nombre: "Joseph", edad: 18},
+    {nombre: "Jotaro", edad: 17},
+    {nombre: "Josuke", edad: 16},
+    {nombre: "Giorno", edad: 15},
+    {nombre: "Jolyne", edad: 20},
+    {nombre: "Johnny", edad: 19},
+    {nombre: "Josuke", edad: 19},
 ]
 
 let adultos = gente.filter(persona => persona.edad >= 18)
