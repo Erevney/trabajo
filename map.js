@@ -11,7 +11,7 @@ const Jojos = [
     { nombre: "Johnny",   apellido: "Joestar"},
     { nombre: "Josuke",   apellido: "Higashikata"}
     ];
-  
+    
   function generarNombre({ nombre, apellidos }) {
     return `${nombre} ${apellidos}`;
     }
