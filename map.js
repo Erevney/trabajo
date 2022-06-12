@@ -6,7 +6,7 @@ const Jojos = [
     { nombre: "Joseph",   apellido: "Joestar"},
     { nombre: "Jotaro",   apellido: "Kujo"},
     { nombre: "Josuke",   apellido: "Higashikata"},
-    { nombre: "Giorn", apellido: "Giovanna"},
+    { nombre: "Giorno", apellido: "Giovanna"},
     { nombre: "Jolyne",   apellido: "Kujo"},
     { nombre: "Johnny",   apellido: "Joestar"},
     { nombre: "Josuke",   apellido: "Higashikata"}
