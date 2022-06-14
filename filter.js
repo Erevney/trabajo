@@ -1,3 +1,6 @@
+//filter() en JavaScript. El método filter() toma una función callback y llama a esa función para cada elemento sobre el que itera dentro del arreglo de destino.
+//en este caso de uso se filtra las personas por edades y muestra a los adultos
+
 let gente = [
     {nombre: "Johnatan", edad: 20},
     {nombre: "Joseph", edad: 18},
